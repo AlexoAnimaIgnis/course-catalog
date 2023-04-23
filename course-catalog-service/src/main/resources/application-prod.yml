@@ -1,0 +1,2 @@
+#triggered when using -Dspring.profiles.active=prod
+message: Hello from prod profile
